@@ -1,0 +1,10 @@
+false true false var func
+func wow()
+true nice()
+func
+super
+class
+{}
+thingy + 1
+-
+()
